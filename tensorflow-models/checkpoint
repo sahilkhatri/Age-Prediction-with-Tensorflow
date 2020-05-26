@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/sahil/silvertouch AIML/WFH evaluation/Age Prediction/tensorflow-models/model.ckpt-22368"
+all_model_checkpoint_paths: "/home/sahil/silvertouch AIML/WFH evaluation/Age Prediction/tensorflow-models/model.ckpt-0"
+all_model_checkpoint_paths: "/home/sahil/silvertouch AIML/WFH evaluation/Age Prediction/tensorflow-models/model.ckpt-7039"
+all_model_checkpoint_paths: "/home/sahil/silvertouch AIML/WFH evaluation/Age Prediction/tensorflow-models/model.ckpt-14131"
+all_model_checkpoint_paths: "/home/sahil/silvertouch AIML/WFH evaluation/Age Prediction/tensorflow-models/model.ckpt-21227"
+all_model_checkpoint_paths: "/home/sahil/silvertouch AIML/WFH evaluation/Age Prediction/tensorflow-models/model.ckpt-22368"
