@@ -18,5 +18,7 @@ AgePred.py loads the data and creates and stores the embedding of the images for
 In model_definition() function you can play around and try different model architectures.
 For model training and evaluation, I have used TensorFlow Estimator API. Estimator API gives
 flexibility in providing training and validation input to the function along with its 
-rich functionality of model training and evaluation. 
+rich functionality of model training and evaluation. Model performance can be visualized 
+in TensorBoard by giving "logdir" path to "temsorflow-models"
+For ex: tensorboard --logdir path/tensorflow-models
 
