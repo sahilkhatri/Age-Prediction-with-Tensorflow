@@ -4,7 +4,7 @@ Age Prediction model using the TensorFlow Estimator API.
 Dataset used in this project, can be found at
 https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/#About
 
-Recommended project hierarchy is as below: (view this in raw format)
+Recommended project hierarchy is as below:
 - - Age Prediction
   - - encodings (encodings of the images and labeles will be stored in this folder)
   - - result (csv file with predicted result will be stored here)
