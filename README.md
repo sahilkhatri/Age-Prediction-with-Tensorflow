@@ -5,13 +5,13 @@ Dataset used in this project, can be found at
 https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/#About
 
 Recommended project hierarchy is as below: (view this in raw format)
-Age Prediction
-  -encodings (encodings of the images and labeles will be stored in this folder)
-  -result (csv file with predicted result will be stored here)
-  -tensorflow-models (this folder will contain the stored model, weights, and events)
-  -train (train images and train.csv)
-  -test (test images and test.csv)
-  -AgePred.py (main file)
+- - Age Prediction
+  - - encodings (encodings of the images and labeles will be stored in this folder)
+  - - result (csv file with predicted result will be stored here)
+  - - tensorflow-models (this folder will contain the stored model, weights, and events)
+  - - train (train images and train.csv)
+  - - test (test images and test.csv)
+  - - AgePred.py (main file)
  
 
 AgePred.py loads the data and creates and stores the embedding of the images for reusability.
